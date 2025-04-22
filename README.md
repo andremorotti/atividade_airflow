@@ -29,7 +29,7 @@
 ### Clone the repository / Clone o repositório
 
 ```bash
-git clone https://github.com/andremorotti/atividade_airflow.git  # insira a URL do seu repositório
+git clone https://github.com/andremorotti/atividade_airflow.git
 ```
 
 ### Windows
